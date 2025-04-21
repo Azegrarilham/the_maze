@@ -39,10 +39,10 @@ The Maze is an atmospheric first-person indie horror game set in a mysterious la
 This game was developed using Unity Engine as a first indie game development project.
 
 ## 📝 Credits
-Developed by [Your Name]
+Developed by [Ilham Azegrar]
 
 ## 🎥 Screenshots
-[Coming Soon]
+![The Maze Game](Assets/UI/Screenshot 2024-08-27 115922.png)
 
 ## 🔔 Note
 This is my first indie game development project. I hope you enjoy exploring The Maze as much as I enjoyed creating it. Your feedback is greatly appreciated!
