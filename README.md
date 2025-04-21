@@ -42,7 +42,7 @@ This game was developed using Unity Engine as a first indie game development pro
 Developed by [Ilham Azegrar]
 
 ## 🎥 Screenshots
-![The Maze Game](Assets/UI/Screenshot 2024-08-27 115922.png)
+(Assets/UI/Screenshot 2024-08-27 115922.png)
 
 ## 🔔 Note
 This is my first indie game development project. I hope you enjoy exploring The Maze as much as I enjoyed creating it. Your feedback is greatly appreciated!
